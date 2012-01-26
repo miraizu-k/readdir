@@ -1,0 +1,16 @@
+{
+  "author": "romer <romer.t.co@gmail.com>",
+  "name": "readdir",
+  "description": "get a list of files from given path",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/romer/readdir.git"
+  },
+  "engines": {
+    "node": ">= 0.4.12"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
